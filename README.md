@@ -2,7 +2,9 @@
 Database Management: Assignment 3
 
 Name: Alex Rigl
+
 ID: 2300146
+
 Date due: 3/22/2021
 
 Resources:
