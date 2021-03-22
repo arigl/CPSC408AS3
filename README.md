@@ -8,6 +8,7 @@ ID: 2300146
 Date due: 3/22/2021
 
 Resources:
+- Frank Entriken helped me with the setup 
 - https://www.w3schools.com/python/python_mysql_insert.asp
 - https://www.tutorialspoint.com/python_data_access/python_mysql_insert_data.htm
 - https://stackoverflow.com/questions/23217680/sql-query-with-variables-in-python
